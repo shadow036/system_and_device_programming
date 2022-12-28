@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "class_public.h": "c",
+        "class_private.h": "c"
+    }
+}
