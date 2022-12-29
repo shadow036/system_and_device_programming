@@ -36,3 +36,23 @@ Suggestion
 Print (and store) thread identifiers (tids) as "long integer"
 values.
 */
+
+#include "interface.h"
+
+int main(int argc, char **argv){
+  void *return_value;
+  pthread_t tids[2];
+  if(argc != 2){
+    fprintf(stderr, "wrong number of parameters");
+    return -1;
+  }
+  int n = atoi(argv[1]);
+  pthread_t *path = (pthread_t *) malloc(n * sizeof(pthread_t));
+  int i = 0;
+  path[0] = pthread_self();
+  pthread_create(tids, NULL, thread, (void *) generate_thread_structure(path, 1, n + 1));
+  pthread_create(tids + 1, NULL, thread, (void *) generate_thread_structure(path, 1, n + 1));
+  pthread_join(tids[0], &return_value);
+  pthread_join(tids[1], &return_value);
+  return 0;
+}
