@@ -69,7 +69,7 @@ Write a program to implement a user menu with the following options:
 - W n: Where W is the character 'W', and n is an integer value.
        Read from standard input all data fields for the student number
        n and write them on the file in position n.
-       
+
 - E: End the program.
 
 The input file name is given on the command line.
@@ -126,7 +126,7 @@ For each file copied from the first to the second directory tree, the
 program has to add two data fields on top of the destination file
 specifying:
 - the first one, the name of the file (the name only, not the path, as a
-  C string) 
+  C string)
 - the second one, the size of the source (original) file
   (an integer value).
 
@@ -175,7 +175,3 @@ For example, the application may decide to store messages on files (like
 the program for Version B), it may use a dedicated data structure to
 store messages and sort them somehow, it may decide which verbosity level
 to use, it may compute output statistics, etc.
-
-
-
-
