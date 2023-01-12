@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672843781 source:/home/shadow36/Desktop/alternate direction channel/main.c
+	"public.h"
+
+1672843791 /home/shadow36/Desktop/alternate direction channel/public.h
+	<pthread.h>
+	<unistd.h>
+	<stdlib.h>
+
+1672843964 source:/home/shadow36/Desktop/alternate direction channel/private.c
+	"public.h"
+	<string.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672934503 source:/home/shadow36/Desktop/file_locking/private.c
+	"public.h"
+
+1672935297 /home/shadow36/Desktop/file_locking/public.h
+	<unistd.h>
+	<sys/types.h>
+	<fcntl.h>
+	<sys/wait.h>
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+
+1672936002 source:/home/shadow36/Desktop/file_locking/main.c
+	"public.h"
+

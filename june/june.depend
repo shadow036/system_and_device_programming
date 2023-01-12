@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1673366039 source:/home/shadow36/Desktop/June/ex1/main.c
+	<stdio.h>
+
+1673366465 source:/home/shadow36/Desktop/june/1/main.c
+	<stdio.h>
+
+1673368896 source:/home/shadow36/Desktop/june/3/main.c
+	<semaphore.h>
+	<pthread.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1673367212 source:/home/shadow36/Desktop/june/1/main1.c
+	<stdio.h>
+
+1673368980 source:/home/shadow36/Desktop/june/3/main3.c
+	<semaphore.h>
+	<pthread.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1673372542 source:/home/shadow36/Desktop/june/4/main.c
+	<semaphore.h>
+	<pthread.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<unistd.h>
+
+1673370858 source:/home/shadow36/Desktop/june/missing_5678.c
+

@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1673443625 source:/home/shadow36/Desktop/july/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	"header.h"
+
+1673443548 source:/home/shadow36/Desktop/july/missing_45678.c
+	<fcntl.h>
+
+1673443664 source:/home/shadow36/Desktop/july/1.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	"header.h"
+
+1673443679 source:/home/shadow36/Desktop/july/2.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	"header.h"
+
+1673445861 source:/home/shadow36/Desktop/july/4.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	"header.h"
+
+1673443699 source:/home/shadow36/Desktop/july/3.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	"header.h"
+
+1673443723 /home/shadow36/Desktop/july/header.h
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673459891 source:/home/shadow36/Desktop/september/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"header.h"
+
+1673447786 source:/home/shadow36/Desktop/september/main1.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"header.h"
+
+1673459616 /home/shadow36/Desktop/september/header.h
+
+1673461131 source:/home/shadow36/Desktop/september/main3.c
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+
